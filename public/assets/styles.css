@@ -130,7 +130,7 @@ body {
   align-items: center;
   text-align: center;
   position: relative;
-  background-image: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hanamitechbanner-r23p9GakwRqor7CXVwuuvgqtqOagwo.png");
+  background-image: url("../assets/img/hanamitechbanner.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -304,7 +304,7 @@ body {
   position: relative;
   border-radius: 20px;
   overflow: hidden;
-  box-shadow: 0 10px 40px rgba(233, 30, 99, 0.3);
+  /* box-shadow: 0 10px 40px rgba(233, 30, 99, 0.3); */
 }
 
 .image-wrapper img {
